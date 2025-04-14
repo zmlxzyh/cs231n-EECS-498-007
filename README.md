@@ -7,4 +7,4 @@
 https://drive.google.com/drive/folders/1Ugn3USQZEU6B0BmnIf4j7UZTqCQNgl3T?usp=sharing
 https://drive.google.com/drive/folders/1aS3MoraYH4zCvka1QTkLqK7LpifxQ9Pm?usp=sharing
 ### Notes
-主要记录听lecture时的框架，每听一部分将图片和字幕喂给Im总结笔记。个人认为这样记录的知识点比较全面，但没有实现真正的输出，当个知识库来用还行。具体参见我的博客：https://krisonzhang.cn/
+主要记录听lecture时的框架，每听一部分将图片和字幕喂给Im总结笔记。个人认为这样记录的知识点比较全面，但没有实现真正的输出，当个知识库来用还行。具体参见我的博客：https://krisonzhang.cn/notes/
